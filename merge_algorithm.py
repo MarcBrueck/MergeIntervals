@@ -147,6 +147,6 @@ class IntervalCombinator:
 
 if __name__ == '__main__':
     combinator = IntervalCombinator()
-    test_list = combinator.merge(test_list3)
+    test_list = combinator.merge(test_list1)
     print(test_list)
 
